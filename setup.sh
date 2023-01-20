@@ -5,8 +5,8 @@
 # Description	: Config VIM for YAML editing and add EverForest CS
 # Args		: n/a
 # Example	: n/a
-# Author	: Zigg Bog
-# Email		: zig@zspec.dev
+# Author	: zpc
+# Email		: zpc@zspec.dev
 # Date		: Jan 2023
 ###############################################################
 
