@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###############################################################
-# Script Name 	: Yuml-Setup 
+# Script Name 	: Vim-Yaml
 # Description	: Config VIM for YAML editing and add EverForest CS
 # Args		: n/a
 # Example	: n/a
